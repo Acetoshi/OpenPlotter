@@ -16,15 +16,39 @@ Mechanical source files can be found here :https://cad.onshape.com/documents/467
 
 -Power drill + 7mm Metal drill bit
 
+# Bill of materials
 
-# Nuts'n'Bolts Needed
+## Nuts'n'Bolts Needed
 
--M3x10mm Hex screws (x50)
+- M3x10mm Hex screws (x50)
 
--M5x8mm Hex screws
+- M5x8mm Hex screws
 
--M5x25mm Hex screws
+- M5x25mm Hex screws
 
--M5x40mm Hex screws
+- M5x40mm Hex screws
 
--M5 Nut x 
+- M5 Nut x 
+
+## Aluminium profiles
+### 2040 V-slot
+
+- 1000mm (x2)
+  
+- 850mm (x1) 
+
+### 2020 V-slot
+
+- 828mm (x1)
+
+- 360mm (x2)
+
+- 190mm (x2)
+
+- 170mm (x2)
+
+- 80mm (x2)
+
+- 60mm (x2)
+
+
