@@ -51,4 +51,12 @@ Mechanical source files can be found here :https://cad.onshape.com/documents/467
 
 - 60mm (x2)
 
+### 6mm round tube 
 
+- 85 mm (x1)
+
+- 75 mm (x1)
+
+# Software
+
+This machine uses GRBL, the configuration file is in the software folder. 
