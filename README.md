@@ -5,12 +5,12 @@ An open source machine for plotting stuff, this repo is still a work in progress
 Feel free to open an issue if you encounter any problem. 
 
 # Tools required
--3D Printer
--M6 Tap wrench
--M3, M5, M6 allen Keys
--Soldering iron
--Metal saw
--Power drill + 7mm Metal drill bit
+- 3D Printer
+- M6 Tap wrench
+- M3, M5, M6 allen Keys
+- Soldering iron
+- Metal saw
+- Power drill + 7mm Metal drill bit
 
 # Bill of materials
 
