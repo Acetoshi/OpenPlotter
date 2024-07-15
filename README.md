@@ -28,7 +28,11 @@ Mechanical source files can be found here :https://cad.onshape.com/documents/467
 
 - M5x40mm Hex screws
 
-- M5 Nut x 
+- M5 Nut x
+
+- M5 T-Slot nuts (x50)
+
+- M3 T-Slot nuts (x
 
 ## Aluminium profiles
 ### 2040 V-slot
@@ -61,9 +65,13 @@ Mechanical source files can be found here :https://cad.onshape.com/documents/467
 
 - 10mm x 10mm x 1000m Cable chain (x2) [Like this one](https://www.amazon.fr/chudian-10mmx10mm-Transporteur-Imprimante-Machine%EF%BC%8CNoir/dp/B07Y6769LL?pd_rd_w=SgpTm&content-id=amzn1.sym.2feba941-c3ea-43f7-9bb0-8595e66c71e9&pf_rd_p=2feba941-c3ea-43f7-9bb0-8595e66c71e9&pf_rd_r=PNCYDVQPMEP8R8EMBY00&pd_rd_wg=k4awF&pd_rd_r=3dc373b0-0f3b-4564-b3dd-3d22f7814f42&pd_rd_i=B07Y6769LL&psc=1&ref_=pd_bap_d_grid_rp_0_1_ec_pd_nav_hcs_rp_2_t)
   
-- GT20 20Teeth Idler Pulley Bore 5mm (x5)
+- GT2 20Teeth Idler Pulley Bore 5mm (x5)
+
+- GT2 20Teeth Pulley Bore 5mm (x4)
   
-- GT20 6mm wide timing belt (6m minimum)
+- GT2 6mm wide timing belt (6m minimum)
+
+- OpenBuilds V-Slot Gantry Kits 20 mm (x3) [These little guys](https://openbuildspartstore.com/v-slot-gantry-kit-20mm/)
 
 - zipTies : a lot
 
