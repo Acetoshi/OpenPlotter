@@ -17,11 +17,13 @@ Feel free to open an issue if you encounter any problem.
 ## Nuts'n'Bolts Needed
 
 - M3x10mm Hex screws (x50)
+- M3 nuts (x8)
+- M3 T-Slot nuts (x50)
 - M5x8mm Hex screws (x30)
 - M5x25mm Hex screws (x10)
 - M5x40mm Hex screws (x3)
 - M5 Nut (x15)
-- M5 T-Slot nuts (x2)
+- M5 T-Slot nuts (x50)
 - M6x10mm Hex screws (x6)
 - M6x18mm Hex screws (x3)
 - M6x35mm Hex screws (x8)
