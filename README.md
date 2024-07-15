@@ -49,11 +49,12 @@ Feel free to open an issue if you encounter any problem.
 - 75 mm (x1)
 
 ## Other Mechanical parts
-- 10 x 10 x 1000 mm Cable chain (x2) [Like this one](https://www.amazon.fr/chudian-10mmx10mm-Transporteur-Imprimante-Machine%EF%BC%8CNoir/dp/B07Y6769LL?pd_rd_w=SgpTm&content-id=amzn1.sym.2feba941-c3ea-43f7-9bb0-8595e66c71e9&pf_rd_p=2feba941-c3ea-43f7-9bb0-8595e66c71e9&pf_rd_r=PNCYDVQPMEP8R8EMBY00&pd_rd_wg=k4awF&pd_rd_r=3dc373b0-0f3b-4564-b3dd-3d22f7814f42&pd_rd_i=B07Y6769LL&psc=1&ref_=pd_bap_d_grid_rp_0_1_ec_pd_nav_hcs_rp_2_t)
+- NEMA 17 stepper motor (x4)
 - GT2 20Teeth Idler Pulley Bore 5mm (x5)
 - GT2 20Teeth Pulley Bore 5mm (x4)
 - GT2 6mm wide timing belt (6m minimum)
 - OpenBuilds V-Slot Gantry Kits 20 mm (x3) [These little guys](https://openbuildspartstore.com/v-slot-gantry-kit-20mm/)
+- 10 x 10 x 1000 mm Cable chain (x2) [Like this one](https://www.amazon.fr/chudian-10mmx10mm-Transporteur-Imprimante-Machine%EF%BC%8CNoir/dp/B07Y6769LL?pd_rd_w=SgpTm&content-id=amzn1.sym.2feba941-c3ea-43f7-9bb0-8595e66c71e9&pf_rd_p=2feba941-c3ea-43f7-9bb0-8595e66c71e9&pf_rd_r=PNCYDVQPMEP8R8EMBY00&pd_rd_wg=k4awF&pd_rd_r=3dc373b0-0f3b-4564-b3dd-3d22f7814f42&pd_rd_i=B07Y6769LL&psc=1&ref_=pd_bap_d_grid_rp_0_1_ec_pd_nav_hcs_rp_2_t)
 - PETG 3D printing filament compatible with your printer (1kg)
 - 15 x 840 x 1000 mm piece of MDF board
 - zipTies : a lot
@@ -63,7 +64,6 @@ Feel free to open an issue if you encounter any problem.
 - Arduino UNO (x1)
 - Arduino CNC Shield V3 (x1)
 - Stepstick A4988 - Stepper motor driver (x4)
-- NEMA 17 stepper motor (x4)
 - 150W(mini) 24V Power Supply (x1)
 - A fan to keep the drivers cool
 
