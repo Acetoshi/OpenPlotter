@@ -1,6 +1,8 @@
 # OpenPlotter
 An open source machine for plotting stuff, this repo is still a work in progress, more parts and drawings will soon be uploaded. 
-Mechanical source files can be found here :https://cad.onshape.com/documents/46722cd283d12a82f0ec8435/w/54065c5dafbb0bb403c8ca67/e/3b850448fa15e10835d7a433
+[Mechanical source files](https://cad.onshape.com/documents/46722cd283d12a82f0ec8435/w/54065c5dafbb0bb403c8ca67/e/3b850448fa15e10835d7a433) are available. 
+
+Feel free to open an issue if you encounter any problem. 
 
 # Tools required
 
