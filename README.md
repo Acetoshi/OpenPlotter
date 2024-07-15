@@ -74,8 +74,24 @@ Mechanical source files can be found here :https://cad.onshape.com/documents/467
 - OpenBuilds V-Slot Gantry Kits 20 mm (x3) [These little guys](https://openbuildspartstore.com/v-slot-gantry-kit-20mm/)
 
 - zipTies : a lot
+  
+
+## Electronics
+
+- Arduino UNO (x1)
+
+- Arduino CNC Shield V3 (x1)
+
+- Stepstick A4988 - Stepper motor driver (x4)
+
+- NEMA 17 stepper motor (x4)
+
+- 150W(mini) 24V Power Supply (x1)
+
+- A fan to keep the drivers cool
 
 
 # Software
 
-This machine uses GRBL, the configuration file is in the software folder. 
+This machine uses [GRBL](https://github.com/gnea/grbl) as a firmware, the configuration file is in the software folder. 
+In order to send G-code to the machine we use [Universal G-Code Sender](https://winder.github.io/ugs_website/) on a laptop. 
