@@ -1,3 +1,5 @@
+# UGS Setup
+
 IMPORTANT : These instructions are for a debian-based linux OS like ubuntu, adapt to your needs.
 
 1. **Download UGS** from their website: [UGS Download](https://winder.github.io/ugs_website/download/)
@@ -16,11 +18,13 @@ IMPORTANT : These instructions are for a debian-based linux OS like ubuntu, adap
 
 5. **Download UGS settings from the repository**:  
    - Get the configuration files from the following link:  
-     [UGS Config](https://github.com/Acetoshi/OpenPlotter/blob/main/Software/UGS/ugs_config.zip)  
+     [UGS Config](https://github.com/Acetoshi/OpenPlotter/blob/main/Software/UGS/ugs_config.zip)
+     [Macros](https://github.com/Acetoshi/OpenPlotter/blob/main/Software/UGS/macros)  
 
 6. **Import UGS settings**:  
-   - Navigate to **Tools > Options > Import** in UGS.  
-   - Select the downloaded configuration files to import them.  
+   - Navigate to **Tools > Options > Import** in UGS, then import the **UGS_Config.zip** file
+   - Navigate to **Tools > Options > UGS > MACROS > Import** in UGS, then import the **macros** file
+   - Make sure your joystick is activated if you want to control the machine with a gamepad
 
 7. **Install support for Xbox 360 controller**:  
    - Run the following command:  

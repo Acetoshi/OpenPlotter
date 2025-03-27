@@ -1,0 +1,42 @@
+[
+  {
+    "uuid": "f55b80d2-2bc8-4987-ad6d-90cadb9ef8cd",
+    "name": "Go to XY zero",
+    "gcode": "G90 X0 Y0;"
+  },
+  {
+    "uuid": "4f4b3921-d54f-4991-bd82-ee9bb4e94a40",
+    "name": "reset zero",
+    "gcode": "G10 P0 L20 X0 Y0 Z0;"
+  },
+  {
+    "uuid": "bd1186c6-57a5-419e-bb23-26c621322f6a",
+    "name": "home",
+    "gcode": "$H"
+  },
+  {
+    "uuid": "3eac680b-7216-4d6e-b936-8bb0a1242b11",
+    "name": "unclock",
+    "gcode": "$X"
+  },
+  {
+    "uuid": "0f239e01-9849-419c-a98d-5f032348641f",
+    "name": "pen down",
+    "gcode": "G01 Z-15.000000 F20000"
+  },
+  {
+    "uuid": "96b8587e-8e0b-49b0-8245-d9459d239fba",
+    "name": "pen up",
+    "gcode": "G00 Z0.000000"
+  },
+  {
+    "uuid": "d7f0c98e-8b19-4895-a141-6dccc358c68f",
+    "name": "enable soft-limits",
+    "gcode": "$20\u003d1"
+  },
+  {
+    "uuid": "f2c5e396-d83a-46c0-82df-e02e506a69df",
+    "name": "disable soft-limits",
+    "gcode": "$20\u003d0"
+  }
+]
