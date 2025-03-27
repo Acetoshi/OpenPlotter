@@ -17,9 +17,9 @@ IMPORTANT : These instructions are for a debian-based linux OS like ubuntu, adap
    - Replace `username` with the actual user's name.
 
 5. **Download UGS settings from the repository**:  
-   - Get the configuration files from the following link:  
-     [UGS Config](https://github.com/Acetoshi/OpenPlotter/blob/main/Software/UGS/ugs_config.zip)
-     [Macros](https://github.com/Acetoshi/OpenPlotter/blob/main/Software/UGS/macros)  
+   - Get the configuration files from the following links:  
+     - [UGS Config](https://github.com/Acetoshi/OpenPlotter/blob/main/Software/UGS/ugs_config.zip)
+     - [Macros](https://github.com/Acetoshi/OpenPlotter/blob/main/Software/UGS/macros)  
 
 6. **Import UGS settings**:  
    - Navigate to **Tools > Options > Import** in UGS, then import the **UGS_Config.zip** file
