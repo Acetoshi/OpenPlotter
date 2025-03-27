@@ -73,4 +73,6 @@ Feel free to open an issue if you encounter any problem.
 This machine uses [GRBL](https://github.com/gnea/grbl) as a firmware, the configuration file is in the software folder. 
 In order to send G-code to the machine we use [Universal G-Code Sender](https://winder.github.io/ugs_website/) on a laptop. 
 
+Installation instruction for linux can be found [here](https://github.com/Acetoshi/OpenPlotter/blob/main/Software/LINUX_INSTALL_STEPS.md)
+
 To create Gcode i use [this extension](https://github.com/Acetoshi/gcodetools-for-GRBL-Pen-Plotter) with [Inkscape](https://inkscape.org), which is adapted to this machine's GRBL config
